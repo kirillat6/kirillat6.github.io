@@ -1,0 +1,13 @@
+.btn{
+    background-color: #ec644b;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 30px;
+    &:focus{
+        outline: none;
+    }
+}
