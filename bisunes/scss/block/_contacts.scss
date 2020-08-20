@@ -1,0 +1,15 @@
+.contacts{
+    min-height: 690px;
+    padding: 75px 0;
+    &__box{
+        display: block;
+        text-align: center;
+    }
+    .title{
+        margin-top: 60px;
+        color: #393939;
+    }
+    .button{
+        margin-top: 30px;
+    }
+}
